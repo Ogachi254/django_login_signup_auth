@@ -568,8 +568,6 @@ def signup(request):
 <img src="https://user-images.githubusercontent.com/65019876/113796430-d9b96480-976c-11eb-8a3c-e81a62b69854.png">
 
 
-<h2><span id="Source_Code">Source Code</span></h2>
-
 
 
 
